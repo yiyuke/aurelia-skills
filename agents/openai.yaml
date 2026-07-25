@@ -1,0 +1,4 @@
+interface:
+  display_name: "看懂艺术"
+  short_description: "用可信、清楚、平实的语言理解展览、艺术作品与日常视觉对象"
+  default_prompt: "使用 $look-at-art，在进场前用一页讲清这个展览，并告诉我值得留意什么。"
